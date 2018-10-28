@@ -1,0 +1,6 @@
+version: 1.0.{build}
+branches:
+  only:
+  - v25
+build:
+  verbosity: minimal
